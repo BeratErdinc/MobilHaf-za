@@ -1,0 +1,16 @@
+C:\Users\elaku\Desktop\Ödev\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\elaku\Desktop\Ödev\Ödev\bin\Debug\Ödev.exe
+C:\Users\elaku\Desktop\Ödev\Ödev\bin\Debug\Ödev.pdb
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.csproj.AssemblyReference.cache
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.FrmGiris.resources
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.csproj.GenerateResource.cache
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.exe
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.pdb
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.FrmFileSınıfıveMetotları.resources
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.FrmDatetimePicker.resources
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.FrmFileInfoSınıfıveMetotları.resources
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.FrmDirectorySınıfıveMetotları.resources
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.FrmDirectoryInfoSınıfıveMetotları.resources
+C:\Users\elaku\Desktop\Ödev\Ödev\obj\Debug\Ödev.FrmDriveInfoSnıfıveMetotları.resources
